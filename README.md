@@ -1,6 +1,6 @@
 # **Diamond Price Prediction**
 
-## Overview\
+## Overview
 This project aims to predict the sales price of diamonds based on various factors. The dataset contains information about diamonds, including their carat, cut, color, clarity, and more. The goal is to build a predictive model that can accurately estimate the sales price of a diamond based on its features.
 
 ### Data
